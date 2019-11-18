@@ -12,7 +12,7 @@ This doc is inspired by the idea of [Manager README](https://news.ycombinator.co
 - Apart from the day job, I am interested in all sorts of technologies that are cool and I am particularly passionate on those I can play with!
 
 ## What you can expect from me
-- I work in London Hours. 9:30am to 5:30pm is my allocated time for sprint work and meetings, and I spend all the rest for my side projects. My lunch time is from 12:00 to 14:00. That includes a 7k run when there is no meeting scheduled at the same time.
+- I work in London Hours. 9:30am to 5:30pm is my allocated time for day work and meetings, and I spend all the rest for my side projects. My lunch time is from 12:00 to 14:00. That includes a 7k run when there is no meeting scheduled at the same time.
 - I read all email messages sent by human and I am aiming to respond within one working day. Use instant messenger if you need me immediately.
 - I always keep my calendar up to date. If you need me for a meeting, please drop an invite at any empty slot. I acknowledge every meeting invite. I would tentatively accept it when I don't know my availability just yet.
 - Generally I do not get engaged in chatroom discussion very actively. If you have important information for me, email or p2p messenger  are preferable. They just work better for me.
