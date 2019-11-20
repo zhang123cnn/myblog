@@ -22,8 +22,8 @@ This doc is inspired by the idea of [Manager README](https://news.ycombinator.co
 - I always focus more on the future rather than the past. I would rather try and fail than not try at all. I can get very excited with new ideas. Generally I would jump into the new exciting work without making a  thorough plan upfront. Sometimes I could be quite impatient and pushy. I genuinely wish to apply better self-control, so please let me know whenever I behave not in that way.
 - I am deeply motivated by my interests in technology as well as recognition from people who share similar mindset. I am generally at my best when I am doing work I believe in and feel passionate about.
 
-## What I currently interest in
-- Building a "platform"
+## What I am currently interested in
+- Developer Infrastructure
 - Machine learning tooling and deep learning
 - Containers & Kubernetes
 - Any technologies that may change how people live
