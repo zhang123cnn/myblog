@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to fail over your streaming system"
-date:   2019-11-19 10:06:29 +0000
+date:   2020-01-16 10:06:29 +0000
 categories: jekyll update
 ---
 
