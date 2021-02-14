@@ -8,12 +8,12 @@ This doc is inspired by the idea of [Manager README](https://news.ycombinator.co
 
 ## Who I am
 - I am a Chinese guy so I prefer people to call my Chinese name Xiaomeng(晓猛). For those of you who do not know Chinese very well, the pronounciation is roughly [sh ih ow] + [m Oh ng] (or Shaw-mon roughly). Over years, I have developed a skill to know when people call my name no matter how they pronounce it. So no pressure. :)
-- A bit more on myself, I came to UK in 2010 and then joined Bloomberg at 2012. I was in currency trading team for 4 years, then internally transferred to realtime data platform team. My day job is to make the data distribution system more stable so it can deliver more value to our customers.
+- A bit more on myself, I came to UK in 2010 and then worked for Bloomberg for 8 years. In Feb 2020, I joined FB. Since then I firstly worked on [data transfer project](https://datatransferproject.dev/) then transferred to Augmented Reality teamed 
 - Apart from the day job, I am interested in all sorts of technologies that are cool and I am particularly passionate on those I can play with!
 
 ## What you can expect from me
-- I work in London Hours. 9:30am to 5:30pm is my allocated time for day work and meetings, and I spend all the rest for my side projects. My lunch time is from 12:00 to 14:00. That includes a 7k run when there is no meeting scheduled at the same time.
-- I read all email messages sent by human and I am aiming to respond within one working day. Use instant messenger if you need me immediately.
+- I work in London Hours. 8:00am to 6:00pm is my allocated time for day work and meetings, and I am generally not available outside these hours. My lunch time is from 12:30 to 13:30. Pre-pandemic, I normally did a 7k during this break. But now I would take a nap instead. 
+- I read all messages/notifications sent by human and I am aiming to respond within one working day. Use instant messenger if you need me immediately.
 - I always keep my calendar up to date. If you need me for a meeting, please drop an invite at any empty slot. I acknowledge every meeting invite. I would tentatively accept it when I don't know my availability just yet.
 - Generally I do not get engaged in chatroom discussion very actively. If you have important information for me, email or p2p messenger  are preferable. They just work better for me.
 
@@ -26,10 +26,9 @@ This doc is inspired by the idea of [Manager README](https://news.ycombinator.co
 - I am deeply motivated by my interests in technology as well as recognition from people who share similar mindset. I am generally at my best when I am doing work I believe in and feel passionate about.
 
 ## What I am currently interested in
-- Distributed system & Realtime system
-- Cloud & Developer Infrastructure
-- Machine learning tooling & deep learning
-- Containers & Kubernetes
+- Virtual Reality and Augmented Reality
+- Decentralised web and interoperability 
+- Cryptography and privacy technologies
 - Any technologies that may change how people live
 
 
