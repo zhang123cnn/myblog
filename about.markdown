@@ -8,7 +8,7 @@ This doc is inspired by the idea of [Manager README](https://news.ycombinator.co
 
 ## Who I am
 - I am a Chinese guy so I prefer people to call my Chinese name Xiaomeng(晓猛). For those of you who do not know Chinese very well, the pronounciation is roughly [sh ih ow] + [m Oh ng] (or Shaw-mon roughly). Over years, I have developed a skill to know when people call my name no matter how they pronounce it. So no pressure. :)
-- A bit more on myself, I came to UK in 2010 and then worked for Bloomberg for 8 years. In Feb 2020, I joined FB. Since then I firstly worked on [data transfer project](https://datatransferproject.dev/) then transferred to Augmented Reality teamed 
+- A bit more on myself, I came to UK in 2010 and then worked for Bloomberg for 8 years. In Feb 2020, I joined FB. Since then I firstly worked on [data transfer project](https://datatransferproject.dev/) then transferred to Augmented Reality team. 
 - Apart from the day job, I am interested in all sorts of technologies that are cool and I am particularly passionate on those I can play with!
 
 ## What you can expect from me
