@@ -26,7 +26,7 @@ This doc is inspired by the idea of [Manager README](https://news.ycombinator.co
 - I am deeply motivated by my interests in technology as well as recognition from people who share similar mindset. I am generally at my best when I am doing work I believe in and feel passionate about.
 
 ## What I am currently interested in
-- AI and AI Device
+- AI, AI Device and AI Robotics!
 - Virtual Reality and Augmented Reality
 - Cryptography and privacy technologies
 - Any technologies that may change how people live
